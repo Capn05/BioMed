@@ -1,0 +1,8 @@
+/* src/CircularRing.css */
+.circular-ring {
+    display: inline-block;
+    vertical-align: middle;
+  }
+.svg{
+    padding:10px;
+}  
